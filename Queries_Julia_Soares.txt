@@ -1,7 +1,5 @@
 -- Quais os jogos com maior faturamento? --
 
--- Quais os jogos mais bem avaliados? --
-
 SELECT 
 appid AS id_do_aplicativo,
 name AS nome, 
@@ -20,3 +18,15 @@ ON steam.appid = steam_support_info.steam_appid
 
 ORDER BY  ano_de_lançamento DESC, preço DESC;
 
+-- Quais os jogos mais bem avaliados? --
+
+SELECT 
+appid AS id_do_aplicativo,
+name AS nome,
+positive_ratings AS avaliações_positivas, 
+negative_ratings AS avaliações_negativas,
+((positive_ratings * 100)/ (positive_ratings + negative_ratings) ) AS percentual_de_aprovação 
+
+FROM steam 
+
+ORDER BY  percentual_de_aprovação DESC;
