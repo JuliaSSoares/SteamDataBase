@@ -1,4 +1,4 @@
--- Quais os jogos com maior faturamento? --
+-- Quais os jogos com maior número de vendas? --
 
 SELECT 
 appid AS id_do_aplicativo,
