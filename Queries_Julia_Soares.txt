@@ -1,16 +1,12 @@
--- Quais os jogos com maior número de vendas? --
+-- Quais os jogos com maior número de vendas divididos anualmente? --
 
-SELECT 
-appid AS id_do_aplicativo,
-name AS nome, 
-year(release_date) AS ano_de_lançamento,
-positive_ratings AS avaliações_positivas, 
-negative_ratings AS avaliações_negativas,
-((positive_ratings * 100)/ (positive_ratings + negative_ratings) ) AS percentual_de_aprovação , 
-developer AS desenvolvedor,
+SELECT appid as id_do_aplicativo,
+name as nome, 
+year(release_date) as ano_de_lançamento,
+developer as desenvolvedor,
 website, 
-owners AS vendas,
-price AS preço
+owners as vendas,
+price as preço
 FROM steam 
 
 INNER JOIN steam_support_info
@@ -20,13 +16,10 @@ ORDER BY  ano_de_lançamento DESC, preço DESC;
 
 -- Quais os jogos mais bem avaliados? --
 
-SELECT 
-appid AS id_do_aplicativo,
-name AS nome,
-positive_ratings AS avaliações_positivas, 
-negative_ratings AS avaliações_negativas,
-((positive_ratings * 100)/ (positive_ratings + negative_ratings) ) AS percentual_de_aprovação 
-
-FROM steam 
-
-ORDER BY  percentual_de_aprovação DESC;
+SELECT appid as id_do_aplicativo,
+name as nome, 
+positive_ratings as avaliações_positivas, 
+negative_ratings as avaliações_negativas,
+((positive_ratings * 100)/ (positive_ratings + negative_ratings) ) as percentual_de_aprovação 
+FROM steam
+ORDER BY percentual_de_aprovação desc;
