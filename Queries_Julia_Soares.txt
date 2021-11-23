@@ -24,4 +24,4 @@ positive_ratings as avaliações_positivas,
 negative_ratings as avaliações_negativas,
 ((positive_ratings * 100)/ (positive_ratings + negative_ratings) ) as percentual_de_aprovação 
 FROM steam
-ORDER BY percentual_de_aprovação desc;
+ORDER BY percentual_de_aprovação DESC;
