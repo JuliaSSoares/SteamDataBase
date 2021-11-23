@@ -1,0 +1,31 @@
+-Média de preços dos jogos da Steam:
+USE info_steam;
+SELECT 
+name as nome, 
+appid as id_do_aplicativo, 
+price as preço
+
+FROM STEAM;
+
+SELECT 
+(sum (price) / count (price)) as media_total_de_preços
+
+FROM STEAM;
+
+USE info_steam;
+
+SELECT 
+sum(price) / count(price) as media_total_de_preços
+
+FROM STEAM;
+
+-Jogos com mais avaliações negativas:
+
+USE info_steam;
+SELECT appid as id_do_aplicativo,
+name as nome, 
+positive_ratings as avaliações_positivas, 
+negative_ratings as avaliações_negativas,
+((negative_ratings * 100)/ (positive_ratings + negative_ratings) ) as percentual_de_reprovação 
+FROM steam
+ORDER BY percentual_de_reprovação desc;
