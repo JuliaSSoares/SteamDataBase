@@ -1,7 +1,6 @@
 -- Quais os jogos com maior número de vendas divididos anualmente? --
 
-SELECT 
-appid as id_do_aplicativo,
+SELECT appid as id_do_aplicativo,
 name as nome, 
 year(release_date) as ano_de_lançamento,
 developer as desenvolvedor,
@@ -15,10 +14,11 @@ ON steam.appid = steam_support_info.steam_appid
 
 ORDER BY  ano_de_lançamento DESC, preço DESC;
 
+
+
 -- Quais os jogos mais bem avaliados? --
 
-SELECT 
-appid as id_do_aplicativo,
+SELECT appid as id_do_aplicativo,
 name as nome, 
 positive_ratings as avaliações_positivas, 
 negative_ratings as avaliações_negativas,
