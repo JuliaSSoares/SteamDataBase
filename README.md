@@ -54,7 +54,16 @@
   <div align='center'>
   <h2>O banco de dados </h2>
     <br>
-    <img src="Imagens/Relações_entidades.jpeg">
+    <img src="Relações_entidades.jpeg">
     <br>
   <p>Os dados foram relacionados por meio do 'appid'</p>
+  </div>
+  
+  <div align='center'>
+      <h2>A dashboard </h2>
+        <br>
+        <img src="print-dashboard1.jpeg">
+        <br>
+        <img src="print-dashboadr2.jpeg">
+        <br>
   </div>
