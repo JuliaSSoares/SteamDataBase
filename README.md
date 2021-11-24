@@ -54,7 +54,7 @@
   <div align='center'>
   <h2>O banco de dados </h2>
     <br>
-    <img src="Relações_entidades.jpeg">
+    <img src="Imagens/Relações_entidades.jpeg">
     <br>
   <p>Os dados foram relacionados por meio do 'appid'</p>
   </div>
