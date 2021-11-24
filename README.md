@@ -28,7 +28,7 @@
     <br>
     <br>
     <a href="https://www.linkedin.com/in/taila-lima-089aa2181/"><img width='30px' src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955051.png?token=exp=1637702014~hmac=180e172c0f1f1470e8fffd59c3b7d90f"></a> 
-    <a href=https://www.instagram.com/tailads/"><img width='30px' src='https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1637702173~hmac=c51fdf91df38cad5a77ffda7cf9b40d0'></a>
+    <a href="https://www.instagram.com/tailads/"><img width='30px' src='https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1637702173~hmac=c51fdf91df38cad5a77ffda7cf9b40d0'></a>
     <a href="https://github.com/TailaaLima"><img width='30px' src='https://cdn-icons-png.flaticon.com/512/733/733553.png'></a>  
     <br>
     <br>
