@@ -7,3 +7,8 @@ genres as Generos,
 price as Preço 
 from steam
 order by genres asc, price desc;
+
+--Quantidade de Jogos--
+
+select * from steam;
+select  count(appid) as Quantidade_de_Jogos_desde_1998 from steam;
