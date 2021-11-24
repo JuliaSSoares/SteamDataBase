@@ -56,5 +56,5 @@
     <br>
     <img src="Relações_entidades.jpeg">
     <br>
-  <p>Os dados foram relacionados por meios do 'appid'</p>
+  <p>Os dados foram relacionados por meio do 'appid'</p>
   </div>
