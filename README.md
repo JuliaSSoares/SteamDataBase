@@ -17,7 +17,8 @@
     <br>
     <a href="https://www.linkedin.com/in/julia-ap-s-soares/"><img width='30px' src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955051.png?token=exp=1637702014~hmac=180e172c0f1f1470e8fffd59c3b7d90f"></a> 
     <a href="https://www.linkedin.com/in/julia-ap-s-soares/"><img width='30px' src='https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1637702173~hmac=c51fdf91df38cad5a77ffda7cf9b40d0'></a>
-    <a href="https://github.com/JuliaSSoares/"><img width='30px' src='https://cdn-icons-png.flaticon.com/512/733/733553.png'></a>  
+    <a href="https://github.com/JuliaSSoares/"><img width='30px' src='https://cdn-icons-png.flaticon.com/512/733/733553.png'></a>  ![68747470733a2f2f63646e2d69636f6e732e666c617469636f6e2e636f6d2f706e672f3531322f313833352f7072656d69756d2f313833353231312e706e673f746f6b656e3d6578703d313633373731343832337e686d61633d3330313766363834626435613134646235353430313062316630343337616338](https://user-images.githubusercontent.com/90482682/143313670-df90f12d-2de9-49d0-a18d-af5ea02b3a38.png)
+
     <br>
     <br>
   </div>
@@ -60,10 +61,13 @@
   </div>
   
   <div align='center'>
-      <h2>A dashboard </h2>
-        <br>
-        <img src="print-dashboard1.jpeg">
-        <br>
-        <img src="print-dashboadr2.jpeg">
-        <br>
+     <h2>A dashboard </h2>
+       <br>
+       <br>
+       <img src="print-dashboard1.jpeg">
+       <br>
+       <br>
+       <img src="print-dashboard2.jpeg">
+       <br>
+       <br>
   </div>
