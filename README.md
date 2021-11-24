@@ -45,7 +45,7 @@
   <br>
   <br>
   
-  <h2> Ferramentas Utilizadas:</h2>
+  <h2><img width= "25px" src="https://cdn-icons.flaticon.com/png/512/1835/premium/1835211.png?token=exp=1637714823~hmac=3017f684bd5a14db554010b1f0437ac8"> Ferramentas Utilizadas:</h2>
   <li><img width='20px' src="https://cdn-icons-png.flaticon.com/512/1933/1933991.png"> Scrum</li>
   <li><img width='20p' src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png"> Mysql</li>
   <li><img width='20px' src='https://cdn-icons-png.flaticon.com/512/1281/1281715.png'> Power BI</li>
