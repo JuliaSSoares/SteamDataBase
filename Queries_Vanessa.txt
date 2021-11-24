@@ -1,0 +1,9 @@
+-- Quais jogos mais caros de cada genero? --
+
+select 
+appid as Id_do_aplicativo, 
+name as Nome, 
+genres as Generos, 
+price as Preço 
+from steam
+order by genres asc, price desc;
