@@ -1,4 +1,4 @@
--- Quais jogos mais caros de cada genero? --
+-- Quais os gêneros mais recorrentes? --
 
 select 
 appid as Id_do_aplicativo, 
