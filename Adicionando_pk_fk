@@ -1,0 +1,5 @@
+ALTER TABLE steam_data.steam add primary key (appid);
+ALTER TABLE steam_description_data ADD CONSTRAINT fk_steam_description_data FOREIGN KEY ( `steam_appid` ) REFERENCES steam ( `appid` ) ;
+ALTER TABLE steam_media_data ADD CONSTRAINT fk_steam_media_data FOREIGN KEY ( `steam_appid` ) REFERENCES steam ( `appid` ) ;
+ALTER TABLE steam_requirements_data ADD CONSTRAINT fk_steam_requirements_data FOREIGN KEY ( `steam_appid` ) REFERENCES steam ( `appid` ) ;
+ALTER TABLE steam_support_info ADD CONSTRAINT fk_steam_support_info FOREIGN KEY ( `steam_appid` ) REFERENCES steam ( `appid` ) ;
