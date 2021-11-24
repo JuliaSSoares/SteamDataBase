@@ -4,7 +4,7 @@
   <p>A Steam é uma fornecedora de jogos virtuais e uma fonte de informações e lançamentos sobre esse universo. Além disso, é possível adquirir games por valores mais acessíveis, fazer uma instalação mais prática e gerenciar jogos de diferentes máquinas ou notebooks gamers com segurança e suporte da empresa. </p>
 <br> 
 <ul >🔹 Nossa proposta </ul>
-  <p>Utilizando a base de dados disponibilizada, criar uma dashboad que responda as perguntas formuladas pelo grupo.  </p>
+  <p>Utilizando a base de dados disponibilizada, criar uma dashboard que responda as perguntas formuladas pelo grupo.  </p>
  <br>
 <h2 align='center'> Nosso Grupo </h2>
 <br>
@@ -50,3 +50,11 @@
   <li><img width='20p' src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png"> Mysql</li>
   <li><img width='20px' src='https://cdn-icons-png.flaticon.com/512/1281/1281715.png'> Power BI</li>
   <li><img width='20px' src='https://cdn-icons-png.flaticon.com/512/5084/5084666.png'> Kanban</li>
+  
+  <div align='center'>
+  <h2>O banco de dados </h2>
+    <br>
+    <img src="Relações_entidades.jpeg">
+    <br>
+  <p>Os dados foram relacionados por meios do 'appid'</p>
+  </div>
