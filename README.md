@@ -52,18 +52,22 @@
   <li><img width='20px' src='https://cdn-icons-png.flaticon.com/512/5084/5084666.png'> Kanban</li>
   
   <div align='center'>
-  <h2>O banco de dados </h2>
+  <h2>O banco de dados recebido </h2>
     <br>
     <img src="Relações_entidades.jpeg">
     <br>
   <p>Os dados foram relacionados por meio do 'appid'</p>
   </div>
   <div align="center">
+    <br>
     <img src= "Organização.jpeg">
+    <img src= "perguntas.jpeg">
+    <br>
   </div>
   
   <div align='center'>
-     <h2>A dashboard </h2>
+     <h1><img width= "30px" src="https://cdn-icons-png.flaticon.com/512/2328/2328966.png">  A dashboard </h1>
+       <br>
        <br>
        <br>
        <img src="print-dashboard1.jpeg">
