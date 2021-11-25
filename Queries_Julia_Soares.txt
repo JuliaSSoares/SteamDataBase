@@ -1,4 +1,4 @@
--- Quais os jogos mais caros dividos anualmente? --
+-- Quais os jogos com maior faturamento dividos anualmente? --
 
 SELECT appid as id_do_aplicativo,
 name as nome, 
