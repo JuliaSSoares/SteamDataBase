@@ -54,14 +54,14 @@
   <div align='center'>
   <h2>O banco de dados recebido </h2>
     <br>
-    <img src="Relações_entidades.jpeg">
+    <img src="Imagens/Relações_entidades.jpeg">
     <br>
   <p>Os dados foram relacionados por meio do 'appid'</p>
   </div>
   <div align="center">
     <br>
-    <img src= "Organização.jpeg">
-    <img src= "perguntas.jpeg">
+    <img src= "Imagens/Organização.jpeg">
+    <img src= "Imagens/perguntas.jpeg">
     <br>
   </div>
   
@@ -70,10 +70,10 @@
        <br>
        <br>
        <br>
-       <img src="print-dashboard1.jpeg">
+       <img src="Imagens/print-dashboard1.jpeg">
        <br>
        <br>
-       <img src="print-dashboard2.jpeg">
+       <img src="Imagens/print-dashboard2.jpeg">
        <br>
        <br>
   </div>
