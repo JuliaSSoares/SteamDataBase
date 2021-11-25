@@ -58,6 +58,9 @@
     <br>
   <p>Os dados foram relacionados por meio do 'appid'</p>
   </div>
+  <div align="center">
+    <img src= "Organização.jpeg">
+  </div>
   
   <div align='center'>
      <h2>A dashboard </h2>
